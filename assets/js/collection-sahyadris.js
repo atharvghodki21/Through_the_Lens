@@ -2,7 +2,7 @@
 /* GALLERY DATA */
 const photos = [
   { src:'assets/images/collections/Whispers of Sahyadris/img1.jpg', title:'Stormbound', loc:'Sahyadri, MH', cam:'Motorola Edge 50 Fusion', exp:'1/1282s · f1.8 · ISO 100' },
-  { src:'assets/images/collections/Whispers of Sahyadris/img3 reduce brightness.JPG', title:'Monsoon Veil', loc:'Salvya Ghat, MH', cam:'IPhone 14 plus', exp:'1/3077s · f1.5 · ISO 50' },
+  { src:'assets/images/collections/Whispers of Sahyadris/img3.JPG', title:'Monsoon Veil', loc:'Salvya Ghat, MH', cam:'IPhone 14 plus', exp:'1/3077s · f1.5 · ISO 50' },
   { src:'assets/images/collections/Whispers of Sahyadris/img2.JPG', title:'Beholding Wonder', loc:'Salvya Ghat, MH', cam:'iPhone 14 pro', exp:'1/3155s · f1.8 · ISO 80' },
   { src:'assets/images/collections/Whispers of Sahyadris/fav4.jpg', title:"Nature's Frame", loc:'Salvya Ghat, MH', cam:'Samsung M30s', exp:'1/135s · f2.0 · ISO 20' },
   { src:'assets/images/collections/Whispers of Sahyadris/poster.jpg', title:'Held By Mountains', loc:'Mulshi Lake, MH', cam:'Motorola Edge 50 Fusion', exp:'1/860s · f1.8 · ISO 100' },
