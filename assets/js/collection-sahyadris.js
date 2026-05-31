@@ -2,13 +2,13 @@
 /* GALLERY DATA */
 const photos = [
   { src:'assets/images/collections/Whispers of Sahyadris/img1.jpg', title:'Stormbound', loc:'Sahyadri, MH', cam:'Motorola Edge 50 Fusion', exp:'1/1282s · f1.8 · ISO 100' },
-  { src:'assets/images/collections/Whispers of Sahyadris/img3 reduce brightness.jpg', title:'Monsoon Veil', loc:'Salvya Ghat, MH', cam:'IPhone 14 plus', exp:'1/3077s · f1.5 · ISO 50' },
-  { src:'assets/images/collections/Whispers of Sahyadris/img2.jpg', title:'Beholding Wonder', loc:'Salvya Ghat, MH', cam:'iPhone 14 pro', exp:'1/3155s · f1.8 · ISO 80' },
+  { src:'assets/images/collections/Whispers of Sahyadris/img3 reduce brightness.JPG', title:'Monsoon Veil', loc:'Salvya Ghat, MH', cam:'IPhone 14 plus', exp:'1/3077s · f1.5 · ISO 50' },
+  { src:'assets/images/collections/Whispers of Sahyadris/img2.JPG', title:'Beholding Wonder', loc:'Salvya Ghat, MH', cam:'iPhone 14 pro', exp:'1/3155s · f1.8 · ISO 80' },
   { src:'assets/images/collections/Whispers of Sahyadris/fav4.jpg', title:"Nature's Frame", loc:'Salvya Ghat, MH', cam:'Samsung M30s', exp:'1/135s · f2.0 · ISO 20' },
   { src:'assets/images/collections/Whispers of Sahyadris/poster.jpg', title:'Held By Mountains', loc:'Mulshi Lake, MH', cam:'Motorola Edge 50 Fusion', exp:'1/860s · f1.8 · ISO 100' },
   { src:'assets/images/collections/Whispers of Sahyadris/img4.jpg', title:'Lost In The Cloud', loc:'Malshej Ghat, MH', cam:'iPhone 14 Plus', exp:'1/1900s · f1.5 · ISO 50' },
   { src:'assets/images/collections/Whispers of Sahyadris/fav.jpg', title:'Monsoon Cathedral', loc:'Salvya Ghat, MH', cam:'Samsung M30s', exp:'1/215s · f2.0 · ISO 20' },
-  { src:'assets/images/collections/Whispers of Sahyadris/img4.jpg', title:'Lost In The Cloud', loc:'Malshej Ghat, MH', cam:'iPhone 14 Plus', exp:'1/1900s · f1.5 · ISO 50' },
+  { src:'assets/images/collections/Whispers of Sahyadris/img4.JPG', title:'Lost In The Cloud', loc:'Malshej Ghat, MH', cam:'iPhone 14 Plus', exp:'1/1900s · f1.5 · ISO 50' },
   { src:'assets/images/collections/Whispers of Sahyadris/fav4.jpg', title:'Valley Exhales', loc:'Salvya Ghat, MH', cam:'Samsung M30s', exp:'1/135s · f2.0 · ISO 20' },
   { src:'assets/images/collections/Whispers of Sahyadris/patti.jpg', title:'Reaching Through Mist', loc:'Kalavantin Durg, MH', cam:'Samsung M30s', exp:'1/1047s ·f2.0 · ISO 20' },
   { src:'assets/images/collections/Whispers of Sahyadris/waterfall.jpg', title:'Time Carved Here', loc:'Sahyadri, MH', cam:'Motorola g62', exp:'1/400s · f/8 · ISO 200' },
