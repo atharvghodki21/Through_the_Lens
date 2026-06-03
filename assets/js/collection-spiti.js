@@ -6,7 +6,7 @@ const photos = [
   { src:'assets/images/collections/Chasing Light/Ganesha.jpg', title:'Last Gold', loc:'Langza Village', cam:'Sony α7R V', exp:'1/60s · f/11 · ISO 100' },
   { src:'assets/images/collections/Chasing Light/chShivaji.jpg', title:'High Pass', loc:'Kunzum La, 4,551m', cam:'Sony α7R V', exp:'1/500s · f/8 · ISO 200' },
   { src:'assets/images/collections/Chasing Light/sunset_Kalavantin.jpg', title:'Pin Valley', loc:'Pin River Valley', cam:'Sony α7R V', exp:'1/320s · f/6.3 · ISO 200' },
-  { src:'assets/images/collections/Chasing Light/suset2.jpg', title:'Key Monastery at −16°C', loc:'Key Monastery, 4,166m', cam:'Sony α7R V', exp:'1/80s · f/2 · ISO 1600' },
+  { src:'assets/images/collections/Chasing Light/sunset2.jpg', title:'Key Monastery at −16°C', loc:'Key Monastery, 4,166m', cam:'Sony α7R V', exp:'1/80s · f/2 · ISO 1600' },
   { src:'assets/images/collections/Chasing Light/Hero12.jpg', title:'The River That Forgot', loc:'Spiti River, near Kaza', cam:'Sony α7R V', exp:'1/400s · f/4 · ISO 200' },
   { src:'assets/images/collections/Chasing Light/chulha.jpg', title:'Winter Canopy', loc:'Nako, HP', cam:'Sony α7R V', exp:'1/60s · f/4 · ISO 640' },
   { src:'assets/images/collections/Chasing Light/diyas.jpg', title:'Frozen Veins', loc:'Spiti Gorge', cam:'Sony α7R V', exp:'4s · f/11 · ISO 50' },
