@@ -12,7 +12,7 @@ const galleryData = [
   { src:'assets/images/gallery/gangaGhat.jpeg', title:'River Hymns', cat:'stills', loc:'Rishikesh, UK', cam:'Sony α7R V', exp:'4s f/11 ISO50' },
   { src:'assets/images/gallery/kalavantin.jpeg', title:'Golden hour', cat:'sunset', loc:'Kalavantin Durg, MH', cam:'Sony α7R V', exp:'1/60s f/11 ISO100' },
   { src:'assets/images/gallery/lavasa.jpeg', title:'Oasis of Serenity', cat:'miscellaneous', loc:'Lavasa, MH', cam:'Sony α7R V', exp:'1/250s f/8 ISO200' },
-  { src:'assets/images/gallery/fav4.jpg', title:'Heaven on Earth', cat:'water', loc:'Salvya Ghat, MH', cam:'Sony α7R V', exp:'1/500s f/8 ISO200' },
+  { src:'assets/images/gallery/fav4.jpeg', title:'Heaven on Earth', cat:'water', loc:'Salvya Ghat, MH', cam:'Sony α7R V', exp:'1/500s f/8 ISO200' },
 ];
 
 /* ── RENDER GALLERY ── */
